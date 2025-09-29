@@ -8,6 +8,5 @@ TestResults/
 *.trx
 *.coverage
 xunit.runner.json
-appsettings.*.json
 *.log
 *.tmp
