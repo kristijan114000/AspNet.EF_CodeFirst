@@ -1,0 +1,13 @@
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vscode/
+TestResults/
+*.trx
+*.coverage
+xunit.runner.json
+appsettings.*.json
+*.log
+*.tmp
